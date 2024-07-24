@@ -1,0 +1,18 @@
+Previsão do Tempo e Alertas Climáticos:
+
+Fonte de Dados: API de previsão do tempo (ex.: OpenWeatherMap, Weatherbit).
+Análise: Prever condições climáticas futuras e enviar alertas em caso de eventos climáticos extremos (tempestades, ondas de calor).
+Pipeline: Coleta de dados de previsão do tempo, limpeza, análise preditiva para eventos extremos, e envio de alertas E-mail
+
+- Atualizacao periodica
+- Sugestao de roupas
+- Conselho de comportamento
+- Sugestao de Actividades
+- Armazenamento de historico de clima para previsoes futuras
+- Integracao com calendario pessoal
+- APIs de geolocalização para personalizar previsões e alertas com base na localização específica do usuário
+
+https://chatgpt.com/share/ab812d5b-dbae-4b21-a367-6c81c4706663
+https://chatgpt.com/share/38762960-402f-4b30-96ec-7732b65ac6bb
+
+Weather API Key: 4654709083db4cdfb99172835242307
